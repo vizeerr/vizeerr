@@ -1,5 +1,4 @@
  #viveksagar
-https://goaibox.com/a-sl/5UH0Hlu4tI
 print('TIK TAK TOE')
 fpl=input('Enter player 1 name (*)')
 spl=input('Enter player 2 name (0)')
